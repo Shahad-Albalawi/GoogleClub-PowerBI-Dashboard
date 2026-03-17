@@ -29,7 +29,7 @@ It includes information about organized activities, total member count, and a li
 ---
 
 ## Dashboard Screenshot 🖼️
-![Google Club Dashboard Screenshot](assets/dashboard_screenshot.png)  
+![Google Club Dashboard Screenshot](assets/dashboard_screenshot.png)
 *Note: This is a screenshot of the dashboard to give an idea of the project layout.*
 
 ---
