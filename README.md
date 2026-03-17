@@ -29,11 +29,11 @@ It includes information about organized activities, total member count, and a li
 ---
 
 ## Dashboard Screenshot 🖼️
-![Google Club Dashboard Screenshot](assets/dashboard_screenshot.png)
+![Google Club Dashboard Screenshot](assets/google_club_dashboard.png)
 *Note: This is a screenshot of the dashboard to give an idea of the project layout.*
 
 ---
 
 ## Notes 📝
-- All data in the dashboard is anonymized for privacy.  
+- All data is anonymized and only represents numeric summaries. 
 - Ensure your Power BI Desktop version is up-to-date for full compatibility.
