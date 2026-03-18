@@ -1,30 +1,21 @@
-# Google Club Dashboard – Developer Students Tabuk 2023 📊
+# Google Club Dashboard – Developer Students Tabuk 2023
 
-## Project Description
-This dashboard provides a comprehensive analysis of the activities and members of the Google Club for Developer Students – Tabuk 2023.  
-It includes information about organized activities, total member count, and a list of products developed or used in these activities.
+## Overview
+Dashboard providing analysis of activities and members of the Google Club. Shows events, total member count, and products developed or used.
 
----
+## Features
+- Overview of club activities and events
+- Visualization of membership growth and engagement
+- Interactive charts for product usage and activity trends
+- Insights into club performance
 
-## How to Run 🖥️
-1. Make sure **[Power BI Desktop](https://powerbi.microsoft.com/)** is installed on your machine.  
-2. Download the `GoogleClubDashboard.pbix` file from this repository.  
-3. Open the file using **Power BI Desktop** to explore the dashboard.
+## Technologies
+Power BI Desktop, Excel/CSV, Data Modeling
 
----
-
-## Features 🎯
-- Complete overview of club activities and events  
-- Visualization of membership growth and engagement levels  
-- Interactive charts for product usage and activity trends  
-- Insights into club performance and participation  
-
----
-
-## Technologies Used 🛠️
-- **Power BI Desktop** – for dashboard creation and visualization  
-- **Excel / CSV** – source data files  
-- **Data Modeling** – for relationships and calculated metrics  
+## How to Run
+1. Ensure Power BI Desktop is installed.
+2. Download `GoogleClubDashboard.pbix`.
+3. Open it using Power BI Desktop.
 
 ---
 
