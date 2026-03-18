@@ -19,12 +19,12 @@ Power BI Desktop, Excel/CSV, Data Modeling
 
 ---
 
-## Dashboard Screenshot 🖼️
+## Dashboard Screenshot 
 ![Google Club Dashboard Screenshot](assets/google_club_dashboard.png)
 *Note: This is a screenshot of the dashboard to give an idea of the project layout.*
 
 ---
 
-## Notes 📝
+## Notes 
 - All data is anonymized and only represents numeric summaries. 
 - Ensure your Power BI Desktop version is up-to-date for full compatibility.
